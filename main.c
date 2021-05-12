@@ -25,7 +25,7 @@ instruction_t *dic_op()
 		arrayOp[5].opcode = "add";
 		arrayOp[5].f = add;
 		arrayOp[6].opcode = "nop";
-        arrayOp[15].opcode = NULL;
+		arrayOp[15].opcode = NULL;
 		arrayOp[15].f = NULL;
 		return (arrayOp);
 	}
