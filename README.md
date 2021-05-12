@@ -1,10 +1,10 @@
-                                  
+
+<h1 align="center">Stack, Queues - LIFO, FIFO</h1>
 
 
-                            __STACK, Queues - LIFO, FIFO__
 
 
-**Description**
+<h2>Description</h2>
 
 I built a monty files (.m) interpreter with C programming language. Monty 0.98 is a scripting language that is first compiled into Monty byte codes. It relies on a unique stack, with specific instructions to manipulate it. We implement some op_codes like add, pop and print elements from the stack/queue.
 
@@ -13,7 +13,7 @@ Monty byte code files
 Files containing Monty byte codes usually have the .m extension. Most of the industry uses this standard but it is not required by the specification of the language. There is not more than one instruction per line. There can be any number of spaces before or after the opcode and its argument:
 
 
-**Usage**
+<h2>Usage</h2>
 
 You have to clone this repo and compile with gcc 4.8.4 using the flags -Wall -Werror -Wextra and -pedantic
 
@@ -24,7 +24,7 @@ $ ./monty 000.m
 000.m is the file containing monty commands
 
 
-**Valid op_codes**
+<h2>Valid op_codes</h2>
 
  push: pushes an element to the stack
  pall: prints all the values on the stack
@@ -47,7 +47,7 @@ $ ./monty 000.m
 
 
 
-**Examples**
+<h2>Examples</h2>
 
 $ cat 00.m
 push 0 working with stacks
@@ -115,6 +115,6 @@ $ ./monty 03.m
 5
 1
 
-**Authors**
+<h2>Authors</h2>
 
 Bassem B. Yahia.
