@@ -1,6 +1,6 @@
-                                            **Stack, Queues - LIFO, FIFO**
-                                             
-                                             
+                                  #STACK, Queues - LIFO, FIFO
+
+
 **Description**
 
 I built a monty files (.m) interpreter with C programming language. Monty 0.98 is a scripting language that is first compiled into Monty byte codes. It relies on a unique stack, with specific instructions to manipulate it. We implement some op_codes like add, pop and print elements from the stack/queue.
