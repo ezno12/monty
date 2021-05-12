@@ -14,7 +14,7 @@ Files containing Monty byte codes usually have the .m extension. Most of the ind
 
 You have to clone this repo and compile with gcc 4.8.4 using the flags -Wall -Werror -Wextra and -pedantic
 
-$ git clone https://github.com/andergcp/monty
+$ git clone https://github.com/tennin12/monty
 $ cd monty
 $ gcc -Wall -Werror -Wextra -pedantic *.c -o monty
 $ ./monty 000.m
