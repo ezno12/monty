@@ -1,4 +1,4 @@
-                                             **Stack, Queues - LIFO, FIFO**
+                                            **Stack, Queues - LIFO, FIFO**
                                              
                                              
 **Description**
